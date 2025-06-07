@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+recommender/
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+
+# Data
+*.csv
+!light_spotify_dataset.csv  # Allow this specific dataset
