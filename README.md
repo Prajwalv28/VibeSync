@@ -1,7 +1,14 @@
 # 🎵 VibeSync: Mood-Driven Music Recommender
+[![Streamlit App](https://img.shields.io/badge/Launch-VibeSync%20App-ff4b4b?logo=streamlit)](https://vibesyncai.streamlit.app)
+
 
 > *Let your mood choose the music – intelligently, beautifully, and interactively.*  
 > Powered by NLP, time-series emotion trends, and Spotify-inspired vibes.
+
+---
+
+## Live Demo  
+🎯 [Click here to try the live app](https://vibesyncai.streamlit.app)
 
 ---
 
@@ -109,4 +116,6 @@ streamlit run vibesync.py
 
 **Prajwal Venkat**  
 💼 Data Scientist | Music Explorer | AI Builder
-Find me on [LinkedIn](www.linkedin.com/in/prajwal-venkat-v-9654a5180)
+
+📧 prajwalvenkatv@gmail.com
+Find me on [LinkedIn](https://www.linkedin.com/in/prajwal-venkat-v-9654a5180)
